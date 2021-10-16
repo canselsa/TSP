@@ -1,6 +1,6 @@
 # TSP
 
-**Project - Formal Languages and Automata Theory Course**
+**Project - Formal Languages and Automata Theory**
 
 Traveling Salesman Problem (TSP) is an NP-complete problem and currently we do not have a  fast  algorithm  for  its  solution,  known  algorithms  are  exponential. 
 
